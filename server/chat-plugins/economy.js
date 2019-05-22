@@ -14,7 +14,7 @@ const MAX_TICKETS = 5;
 
 geoip.startWatchingDataUpdate();
 
-let shopTitle = 'Wisp Shop';
+let shopTitle = 'Tienda Polaris';
 let serverIp = '158.69.196.64';
 
 let prices = {
@@ -24,13 +24,13 @@ let prices = {
 	"declare": 20,
 	"poof": 25,
 	"title": 30,
-	"avatar": 35,
+	"avatar": 50,
 	"music": 35,
 	"infobox": 40,
 	"background": 40,
 	"emote": 50,
 	"roomshop": 55,
-	"room": 75,
+	"room": 150,
 	"icon": 100,
 	"color": 150,
 	"pmbox": 500,
